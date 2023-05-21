@@ -50,10 +50,5 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Huntes&show_icons=true" />
 </picture>
-</div>
-<div>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Huntes&hide_progress=true&theme=dracula">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huntes&hide_progress=true&theme=dracula" />
-</a>
-</div>
+
 
