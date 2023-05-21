@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/samuel-pereira-b8838921a/" target="_blank">
      <img align="center" alt="Samu-Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
-   <a href="https://www.linkedin.com/in/samuel-pereira-b8838921a/" target="_blank">
+   <a href="https://github.com/Huntes" target="_blank">
      <img align="center" alt="Samu-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </a>
   <a href="https://discord.com/users/Samuka#5816" rel="nofollow" target="_blank">
