@@ -3,7 +3,7 @@
 - 🛠️ FullStack Developer
 - 📚 Bachelor of Computer Science at <a href="https://www.unifenas.br/"> Universidade Prof. Edson Antônio Velano</a>
 - 📨 Contact me at huntesdev@gmail.com
-- 👨‍💻 Currently studying .NET MAUI and Vue.JS
+- 👨‍💻 Currently studying Docker <img align="center" alt="Samu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 - 📌 MG - Brasil
 
 <div>
@@ -23,7 +23,8 @@
 <div style="display: inline_block">
   <img align="center" alt="Samu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Samu-NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Samu-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Samu-NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Samu-Xamarin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg">
   <img align="center" alt="Samu-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Samu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -33,7 +34,8 @@
   <img align="center" alt="Samu-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Samu-MSSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Samu-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Samu-Knockout" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg">
+  <img align="center" alt="Samu-Knockout" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg">
+  <img align="center" alt="Samu-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
 
  ##
